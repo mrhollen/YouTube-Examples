@@ -1,0 +1,6 @@
+c:\users\mrc0mput3r\documents\visual studio 2013\Projects\YouTube Examples\YouTube Examples\bin\Debug\YouTube Examples.exe.config
+c:\users\mrc0mput3r\documents\visual studio 2013\Projects\YouTube Examples\YouTube Examples\bin\Debug\YouTube Examples.exe
+c:\users\mrc0mput3r\documents\visual studio 2013\Projects\YouTube Examples\YouTube Examples\bin\Debug\YouTube Examples.pdb
+c:\users\mrc0mput3r\documents\visual studio 2013\Projects\YouTube Examples\YouTube Examples\obj\Debug\YouTube Examples.csprojResolveAssemblyReference.cache
+c:\users\mrc0mput3r\documents\visual studio 2013\Projects\YouTube Examples\YouTube Examples\obj\Debug\YouTube Examples.exe
+c:\users\mrc0mput3r\documents\visual studio 2013\Projects\YouTube Examples\YouTube Examples\obj\Debug\YouTube Examples.pdb
